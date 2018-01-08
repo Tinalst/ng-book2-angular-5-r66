@@ -74,7 +74,8 @@ Port 4200 is already in use. Use '--port' to specify a different
 ng serve --port 4888 // 设置在4888端口上跑端口
 ```
 `有些机器localhost不行，就换127.0.0.1`
-![Alt text](./1515334802532.png)
+
+![](https://github.com/StellaLim/ng-book2-angular-5-r66/blob/master/images/1515336490922.png)
 ##### 运行成功！
 ### 2.4 创建Component（组件）
 #### 2.4.1 什么是组件？为什么要有组件？
