@@ -7,5 +7,5 @@ Angular5读书笔记，你可以阅读我的笔记，让你快速节省时间。
 ## [第二章 创建第一个Angular应用](https://github.com/StellaLim/ng-book2-angular-5-r66/blob/master/Chapter_2%20Writting%20U%20first%20Angular%20Web%20Application.md)
 
 反馈与建议
-- 邮箱：fjqzlinsiting@163.com
+- 邮箱：lst_tina@163.com
 - 转载请注明出处，**如果对你有帮助，帮我点亮一个星星吧**ლ(′◉❥◉｀ლ)
